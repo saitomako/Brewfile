@@ -1,0 +1,138 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+brew ansible
+brew asciidoc
+brew autoconf
+brew bash
+brew bash-completion
+brew bdw-gc
+brew cmake
+brew coreutils
+brew ctags
+brew direnv
+brew dnsmasq
+brew docbook
+brew docbook-xsl
+brew entr
+brew ffmpeg --with-libvpx
+brew findutils
+brew fish
+brew freetype
+brew fzf
+brew gdbm
+brew gettext
+brew ghi
+brew ghq
+brew git
+brew gnu-sed --with-default-names
+brew googler
+brew hub
+brew icu4c
+brew imagemagick --with-webp
+brew jpeg
+brew jump
+brew lame
+brew lastpass-cli --with-pinentry
+brew libassuan
+brew libevent
+brew libgpg-error
+brew libidn2
+brew libpng
+brew libtiff
+brew libtool
+brew libunistring
+brew libvpx
+brew libyaml
+brew mackup
+brew mas
+brew micro
+brew moreutils
+brew mtr
+brew mysql
+brew nasm
+brew node
+brew nodebrew
+brew openssl
+brew pcre
+brew pcre2
+brew peco
+brew perl
+brew pinentry
+brew pipenv
+brew pkg-config
+brew pstree
+brew pv
+brew pyenv
+brew python
+brew python@2
+brew rbenv
+brew rbenv-gemset
+brew readline
+brew reattach-to-user-namespace
+brew rename
+brew ruby
+brew ruby-build
+brew sqlite
+brew sshrc
+brew texi2html
+brew the_silver_searcher
+brew tmux
+brew tre
+brew tree
+brew w3m
+brew webp
+brew wget
+brew x264
+brew xvid
+brew xz
+brew yadm
+brew z
+brew zopfli
+brew zsh
+
+tap homebrew/bundle
+
+tap homebrew/services
+
+tap homebrew/cask
+cask alfred
+cask brackets
+cask docker
+cask evernote
+cask firefox
+cask google-chrome
+cask iterm2
+cask mi
+cask slack
+cask steam
+cask virtualbox
+
+tap rcmdnk/file
+brew brew-file
+
+tap thoughtbot/formulae
+brew rcm
+
+# Other Cask applications
+cask atom
+cask coteditor
+cask dropbox
+cask firealpaca
+cask fluid
+cask google-japanese-ime
+cask kindle
+cask skitch
+cask spectacle
+cask vagrant
+
+# App Store applications
+appstore 973134470 Be Focused (1.7)
+appstore 1033074719 Bilingual News (1.14)
+appstore 777233759 Focus (4.5.4)
+appstore 539883307 LINE (5.8.0)
+appstore  Install macOS High Sierra (13302)
+appstore 409201541 Pages (7.1)
+appstore 623292167 PDF to Image Converter Expert (2.5.0)
+appstore 425424353 The Unarchiver (4.0.0)
